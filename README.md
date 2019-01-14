@@ -9,3 +9,5 @@ Q4:Adds up all the numbers that are typed consecutively ex:176298 =33
 Q5:Counts the frequency in of numbers in a user entered string
 
 Python:
+Q6: encoding and decoding caesar cipher
+Q8: Counts the frequency of all letters in a file
